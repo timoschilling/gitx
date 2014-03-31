@@ -81,3 +81,7 @@ you are not a programmer you can do useful things. A short selection:
 
   * Give feedback
   * File [bug reports](https://github.com/rowanj/gitx/issues?labels=Bug) and [feature requests](https://github.com/rowanj/gitx/issues?labels=Feature).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/timoschilling/gitx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
